@@ -1,0 +1,38 @@
+{
+    "acceptedResumeTypes": [
+        "html",
+        "text",
+        "txt",
+        "pdf",
+        "doc",
+        "docx",
+        "rtf",
+        "odt"
+    ],
+    "companyName": "[ Hospitality Search International ]",
+    "defaultLocale": "en-GB",
+    "supportedLocales": [
+        "en-US",
+        "fr-FR"
+    ],
+    "minUploadSize": 4096,
+    "maxRelatedJobs": 5,
+    "maxUploadSize": 5242880,
+    "service": {
+        "batchSize": 500,
+        "corpToken": "[ OK8I9 ]",
+        "port": null,
+        "swimlane": "[ 22 ]"
+    },
+    "integrations": {
+        "linkedin": {
+            "clientId": "[ CLIENTID HERE ]"
+        }
+    },
+    "defaultGridState": "list-view",
+    "eeoc": {
+        "genderRaceEthnicity": false,
+        "veteran": false,
+        "disability": false
+    }
+}

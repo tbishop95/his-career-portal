@@ -9,7 +9,7 @@
         "rtf",
         "odt"
     ],
-    "companyName": "[ Hospitality Search International ]",
+    "companyName": "Hospitality Search International",
     "defaultLocale": "en-GB",
     "supportedLocales": [
         "en-US",
@@ -20,9 +20,9 @@
     "maxUploadSize": 5242880,
     "service": {
         "batchSize": 500,
-        "corpToken": "[ OK8I9 ]",
+        "corpToken": "OK8I9",
         "port": null,
-        "swimlane": "[ 22 ]"
+        "swimlane": "22"
     },
     "integrations": {
         "linkedin": {
